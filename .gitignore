@@ -1,2 +1,14 @@
 # IntelliJ project files
 .idea
+
+# Logs
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# Generated test reports
+test/coverage/
+
+# Build artifacts
+www
